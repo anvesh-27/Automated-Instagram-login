@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ### Chromedriver
-Go to (https://chromedriver.chromium.org/downloads) this website , check your chrome version and download the suitable version of chromedriver zip file. Extract it in the same direcory as your python file.
+Go to (https://chromedriver.chromium.org/downloads) this website , check your chrome version and download the suitable version of chromedriver zip file. Extract the files in the same direcory as your python file.
 
 ## Run
-Run the "iglogin.py" file. Provide it with your login credentials, when you run it for the first time. You can also change your login credentials by manually editing the "Creds.txt".
+Run the "iglogin.py" file. Provide it with your login credentials, when you run it for the first time. You can also change your login credentials manually by editing the "Creds.txt".
