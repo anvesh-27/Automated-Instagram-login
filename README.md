@@ -1,4 +1,6 @@
 # Automated Instagram login
+Troubled with clearing chrome history after using Instagram or Repeated logins in Incognito.
+Check this out.
 A simple web automated python script created using selenium. It takes your login credentials only for the first time and stores them locally on your machine.
 
 # Installation
